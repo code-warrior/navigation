@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+nav {
+  border: 1px solid transparent;
+}
+
+nav > ul {
+  display: flex;
+  border: 1px solid transparent;
+  list-style-type: none;
+  margin-left: -40px;
+  justify-content: center;
+}
+
+li {
+  margin: 0 17px;
+}
